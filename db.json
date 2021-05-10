@@ -66,19 +66,6 @@
       "tags": ["Online", "Event", "course", "SQL Server 2019", "Passive"]
     },
     {
-      "id": 5,
-      "title": "Global AI Student Conference",
-      "date": "4/24/2021",
-      "time": "12:00",
-      "duration": "1 day",
-      "location": "Online",
-      "speakers": ["Lots of students"],
-      "description": "<p>On the 24th of April, the Global AI Student was held. This is an online event sponsored by Microsoft where multiple student ambassadors showed of a project they made using the AI-platform of Microsoft Azure.</p><p>The course is a true recommendation for students who want to see use cases for AI and hear other students their opinions about it.</p><p>During the conference there was also a competition being held. The competition was rather simple. Each participant got a list of 10 microsoft courses about AI. The first 100 participants who completed 5 of them (each one was about 30-60minutes) had to send a screenshot of their feat. If you were infact one of the first 100 you earned a 100Euro voucher for Microsoft Exams. I was rather interested in some of the course so I decided to follow them and give it a shot. I even got quite lucky and ended up around the first fifty to complete 5 courses, which means I was one of the winners.</p><p>After all is said and done the conference was quite nice and educational, the only downside I found was that some of the student ambassadors had a very pronounced accent which made it very hard to understand. In my opinion the lack of subtitles was a bit strange, defintly when you know they even managed to get a sign language interpreter.</p>",
-      "organizer": "Microsoft",
-      "attendees": 1,
-      "tags": ["AI", "Machine Learning", "Conferene", "Active learning"]
-    },
-    {
       "id": 6,
       "title": "Global AI Student Conference",
       "date": "4/24/2021",
